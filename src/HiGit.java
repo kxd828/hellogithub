@@ -1,5 +1,5 @@
 public class HiGit {
     public static void main(String args[]){
-        System.out.println("Hello My GitHub111!");
+        System.out.println("Hello My GitHub!");
     }
 }
